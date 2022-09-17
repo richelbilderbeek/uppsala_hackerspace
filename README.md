@@ -1,4 +1,4 @@
-# uppsala_hackerspace
+# Uppsala Hackerspace
 
 Homepage of the Uppsala Hackerspace.
 
