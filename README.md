@@ -8,7 +8,7 @@ Homepage of the Uppsala Hackerspace.
 
 When                  |What       |Where
 ----------------------|-----------|------------------
-2022-10-06 17:00-22:00|LCD [1]    |Richel's place [2]
+2022-10-04 17:00-22:00|LCD [1]    |Richel's place [2]
 2022-09-09 17:00-22:00|LCD [1]    |Tobbe's place [2]
 
  * [1] Abbreviation coined by Tobbe for 'Light Coding and Drinking'.
