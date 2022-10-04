@@ -1,6 +1,6 @@
 # Uppsala Hackerspace
 
-![](uhs_logo.png)
+![](uhs_logo_with_text.png)
 
 Homepage of the Uppsala Hackerspace.
 
@@ -81,8 +81,13 @@ The logo is adapted from [the Uppsala Kommun logo](https://bonapostulata.se/spon
 in which a lion head (with emoticon `>:3`) 
 is put in a symbol that is a mix between `U`, `[`, `]` and `)`.
 
-Then simply the text `[>:3] Uppsala Hackerspace` is put in green with a monospace
+Then simply the text `[>:3]` is put in green with a monospace
 font on a black background.
+This results in the logo-without-text:
+
+![](uhs_logo.png)
+
+The logo-with-text has `Uppsala Hackerspace` added as well.
 
 ## Links
 
