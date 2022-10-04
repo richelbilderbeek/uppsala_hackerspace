@@ -4,6 +4,8 @@
 
 Homepage of the Uppsala Hackerspace.
 
+ * [Discord](https://discord.gg/Ysv4dngWCr)
+
 ## Activities
 
 When                  |What       |Where
@@ -59,12 +61,21 @@ carry around.
 The Uppsala Linux User Group asssumes its members use Linux.
 UHS has no such assumptions. 
 
-### Do you use IRC/Discord/Matrix?
+### Do you use Discord?
+
+Yes. [Here is the Discord link](https://discord.gg/Ysv4dngWCr)
+
+### But Discord is proprietary and is thus evil!
+
+You are encouraged to volunteer to maintain an IRC or Matrix
+channel to follows your moral principles.
+
+### Do you use IRC or Matrix?
 
 No.
 
 If you think this is important, 
-you are encouraged to volunteer to set up and maintain the IRC/Discord/Matrix channel.
+you are encouraged to volunteer to set up and maintain an IRC or Matrix channel.
 
 ### Why use GitHub?
 
@@ -72,8 +83,8 @@ Because I maintain the website and I know GitHub.
 
 ### But GitHub is owned by Micro$oft and is thus evil!
 
-You are encouraged to volunteer to maintain the UHS website that follows
-your moral principles.
+You are encouraged to volunteer to maintain the UHS website 
+in a way that aligns with your moral principles.
 
 ## What about the logo?
 
