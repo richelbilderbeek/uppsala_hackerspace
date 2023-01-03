@@ -9,6 +9,7 @@ Homepage of the Uppsala Hackerspace.
 ## Activities
 
 We try to have an IRL meeting at the first Friday of the month.
+Former activities can be found [here](former_activities.md).
 
 When                  |What       |Where
 ----------------------|-----------|------------------
@@ -18,8 +19,6 @@ When                  |What       |Where
 ?2023-04-07 17:00-22:00|LCD [1]   |?Richel's place [2]
 2023-03-03 17:00-22:00|LCD [1]    |?Richel's place [2]
 2023-02-03 17:00-22:00|LCD [1]    |Richel's place [2]
-2022-10-04 17:00-22:00|LCD [1]    |Richel's place [2]
-2022-09-09 17:00-22:00|LCD [1]    |Tobbe's place [2]
 
  * [1] Abbreviation coined by Tobbe for 'Light Coding and Drinking'.
    Note that both coding and drinking are optional
