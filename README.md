@@ -9,6 +9,7 @@ Homepage of the Uppsala Hackerspace.
 ## Activities
 
 We try to have an IRL meeting at the first Friday of the month.
+
 Former activities can be found [here](former_activities.md).
 
 When                  |What       |Where

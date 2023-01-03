@@ -1,6 +1,6 @@
 # Former activities
 
-We try to have an IRL meeting at the first Friday of the month.
+Ordered from most recent events first.
 
 When                  |What       |Where
 ----------------------|-----------|------------------
