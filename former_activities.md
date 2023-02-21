@@ -4,6 +4,7 @@ Ordered from most recent events first.
 
 When                  |What       |Where
 ----------------------|-----------|------------------
+2023-02-03 17:00-22:00|LCD [1]    |Richel's place [2]
 2022-10-04 17:00-22:00|LCD [1]    |Richel's place [2]
 2022-09-09 17:00-22:00|LCD [1]    |Tobbe's place [2]
 
