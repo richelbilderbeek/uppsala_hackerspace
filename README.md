@@ -55,6 +55,19 @@ Luckily, I am a founder of the Groninger Hackerspace called [grunndev](https://g
 
 This website is intended to bring together hackers from Uppsala. Contact me!
 
+### What are related communities?
+
+ * [Uppsala Makerspace](https://www.uppsalamakerspace.se/):
+   bigger community
+   with a space, with a stronger focus on making physical things
+ * [Uppsala Linux User Group](https://www.ulug.org/): 
+   bigger community without a space, meets in pubs
+ * [Update Computer Club](https://www.dfupdate.se/en/):
+   community with a space, 
+   with a stronger focus on working with physical older computers
+
+:warning: go ahead and add your Uppsala community. :warning: go ahead and correct the description of your community.
+
 ### What is the difference between the Uppsala Hackerspace and the Uppsala Makerspace?
 
 The Uppsala Makerspace has a physical space with machines that are too heavy to
