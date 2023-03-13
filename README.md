@@ -65,6 +65,8 @@ This website is intended to bring together hackers from Uppsala. Contact me!
  * [Update Computer Club](https://www.dfupdate.se/en/):
    community with a space, 
    with a stronger focus on working with physical older computers
+ * [Uppsala University CryptoParty](https://www.cryptoparty.se/uppsala/):
+   community that hold [cryptoparties ](https://en.wikipedia.org/wiki/CryptoParty)
 
 :warning: go ahead and add your Uppsala community. :warning: go ahead and correct the description of your community.
 
