@@ -14,8 +14,7 @@ Former activities can be found [here](former_activities.md).
 
 When                  |What       |Where
 ----------------------|-----------|------------------
-2023-03-03 17:00-22:00|LCD [1]    |Richel's place [2]
-2023-04-07 17:00-22:00|LCD [1]    |?Richel's place [2]
+2023-04-07 17:00-22:00|LCD [1]    |Richel's place [2]
 2023-05-05 17:00-22:00|LCD [1]    |?Richel's place [2]
 2023-06-02 17:00-22:00|LCD [1]    |?Richel's place [2]
 2023-07-07 17:00-22:00|LCD [1]    |?Richel's place [2]
