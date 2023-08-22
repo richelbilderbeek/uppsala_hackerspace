@@ -14,10 +14,11 @@ Former activities can be found [here](former_activities.md).
 
 When                  |What       |Where
 ----------------------|-----------|------------------
-2023-04-07 17:00-22:00|LCD [1]    |Richel's place [2]
-2023-05-05 17:00-22:00|LCD [1]    |?Richel's place [2]
-2023-06-02 17:00-22:00|LCD [1]    |?Richel's place [2]
-2023-07-07 17:00-22:00|LCD [1]    |?Richel's place [2]
+2023-09-01 17:00-22:00|LCD [1]    |Richel's place [2]
+2023-10-06 17:00-22:00|LCD [1]    |Richel's place [2]
+2023-11-03 17:00-22:00|LCD [1]    |Richel's place [2]
+2023-12-01 17:00-22:00|LCD [1]    |Richel's place [2]
+2023-01-05 17:00-22:00|LCD [1]    |?[Update Computer Club](https://www.dfupdate.se)
 
  * [1] Abbreviation coined by Tobbe for 'Light Coding and Drinking'.
    Note that both coding and drinking are optional
