@@ -14,7 +14,7 @@ Former activities can be found [here](former_activities.md).
 
 When                  |What       |Where
 ----------------------|-----------|------------------
-2023-09-01 17:00-22:00|LCD [1]    |Richel's place [2]
+2023-09-01 17:00-22:00|CANCELLED  |CANCELLED
 2023-10-06 17:00-22:00|LCD [1]    |Richel's place [2]
 2023-11-03 17:00-22:00|LCD [1]    |Richel's place [2]
 2023-12-01 17:00-22:00|LCD [1]    |Richel's place [2]
