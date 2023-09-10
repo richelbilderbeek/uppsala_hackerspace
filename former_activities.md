@@ -4,6 +4,7 @@ Ordered from most recent events first.
 
 When                  |What       |Where
 ----------------------|-----------|------------------
+2023-09-01 17:00-22:00|CANCELLED  |CANCELLED
 2023-04-07 17:00-22:00|LCD [1]    |Richel's place [2]
 2023-05-05 17:00-22:00|LCD [1]    |Richel's place [2]
 2023-06-02 17:00-22:00|LCD [1]    |Richel's place [2]
